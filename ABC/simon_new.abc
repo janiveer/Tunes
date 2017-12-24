@@ -1,8 +1,5 @@
 % All tunes copyright © 1989–2017 by Simon Dew
 %
-% Usage:
-% abcm2ps -e31,44,38,43,41 -F tunebook.fmt -1 -O = simon.abc
-%
 %%MIDI chordname ø 0 3 6 10
 %%MIDI chordname ^ 0 4 7 11
 
