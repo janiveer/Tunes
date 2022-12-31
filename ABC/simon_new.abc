@@ -123,28 +123,28 @@ P:B
 X:45
 T:Villagers All
 F:Villagers_All
+I:titleformat T, A- C1
 R:5-step waltz
 C:Simon Dew
 A:Kenneth Grahame
 M:5/4
 L:1/8
 K:D
-%%titleformat T, A- C1
-%%botmargin 1cm
-%%staffscale 0.8
+I:botmargin 1cm
+I:staffscale 0.8
 d2cB A4  d2 | e2f2 e4  (de) |
-w: Vill-ag-ers all, this frost-y tide, Oh_
+w: Vill-ag-ers all, this frost-y tide, (oh)_
 !segno!y f2(ed) (g2f2)e2 | d2c2 d4 a2 |
-w: let your_ doors_ swing o-pen wide, Though
+w: Let your_ doors_ swing o-pen wide, Though
 w: Blow-ing_ fin-gers and stamp-ing feet *
 w: Sud-den a star_ has led us on *
-w: Saw a_ star o'er a sta-ble low *
-w: Who the_ first_ to cry NO- WELL? An-
+w: Saw the_ star o'er a sta-ble low *
+w: "Who were the first_ to cry NO- WELL? An-
 a2g2 (f2e2)d2 | g2f2 e4  (de) |
 w: wind may foll-ow, and snow be-side, Yet_
 w: Come from far a-way you to greet, You_
 w: Rain-ing bliss_ and be-ni-son, **
-w: Ma-ry she might not far-ther go, **
+w: Ma-ry she might not fur-ther go, **
 w: im-als all_ as it be-fell, **
 f2e2 (d2e2)c2 | d2B2 A6     |
 w: draw us in by your fire to bide,
@@ -157,11 +157,11 @@ w: Joy shall be yours in the mor--ning! *
 w: Bid-ding you joy in the mor--ning! For
 w: Joy for_ ev-er-y mor--ning! *
 w: Joy was_ hers in the mor--ning! *
-w: Joy shall be theirs in the mor--ning! *
+w: Joy shall be theirs in the mor--ning!" *
 "Verse 2"y d2c2 B2A2d2 | e2f2 d2e4 !D.S.!|
 w: Here we stand in the cold and the sleet~...
 "Verse 3-5"y d2c2 B2A2d2 | e2f2 e6 !D.S.!|
 w: ere one half of the night was gone~...
 w: Good-man Jo-seph toiled through the snow~...
-w: And when they heard the an-gels tell~...
+w: And then they heard the an-gels tell~...
 
