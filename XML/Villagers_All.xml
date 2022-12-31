@@ -175,7 +175,7 @@
         </notations>
         <lyric number="1">
           <syllabic>single</syllabic>
-          <text>Oh</text>
+          <text>(oh)</text>
           <extend type="start" />
         </lyric>
       </note>
@@ -215,7 +215,7 @@
         <type>quarter</type>
         <lyric number="1">
           <syllabic>single</syllabic>
-          <text>let</text>
+          <text>Let</text>
         </lyric>
         <lyric number="2">
           <syllabic>begin</syllabic>
@@ -231,7 +231,7 @@
         </lyric>
         <lyric number="5">
           <syllabic>single</syllabic>
-          <text>Who</text>
+          <text>"Who</text>
         </lyric>
       </note>
       <note>
@@ -262,13 +262,12 @@
         </lyric>
         <lyric number="4">
           <syllabic>single</syllabic>
-          <text>a</text>
+          <text>the</text>
           <extend type="start" />
         </lyric>
         <lyric number="5">
           <syllabic>single</syllabic>
-          <text>the</text>
-          <extend type="start" />
+          <text>were</text>
         </lyric>
       </note>
       <note>
@@ -297,7 +296,8 @@
           <extend type="stop" />
         </lyric>
         <lyric number="5">
-          <extend type="stop" />
+          <syllabic>single</syllabic>
+          <text>the</text>
         </lyric>
       </note>
       <note>
@@ -680,7 +680,7 @@
         </lyric>
         <lyric number="4">
           <syllabic>begin</syllabic>
-          <text>far</text>
+          <text>fur</text>
         </lyric>
         <lyric number="5">
           <syllabic>single</syllabic>
@@ -1300,7 +1300,7 @@
         </lyric>
         <lyric number="5">
           <syllabic>end</syllabic>
-          <text>ning!</text>
+          <text>ning!"</text>
         </lyric>
       </note>
       <note>
@@ -1502,7 +1502,7 @@
         </lyric>
         <lyric number="3">
           <syllabic>single</syllabic>
-          <text>when</text>
+          <text>then</text>
         </lyric>
       </note>
       <note>
