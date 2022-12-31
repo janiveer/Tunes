@@ -1,0 +1,50 @@
+% Single-page format based on MuseScore
+%
+font Times-Roman
+font Times-Italic
+font Times-Bold
+font Symbol
+%
+pageheight 29.7cm
+pagewidth 21cm
+topmargin 1cm
+botmargin 1.5cm
+leftmargin 1cm
+rightmargin 1cm
+staffwidth 19cm
+%
+scale 1
+lineskipfac 1.2
+staffsep 50pt
+sysstaffsep 45pt
+%
+titlefont Times-Roman 24
+subtitlefont Times-Roman 14
+composerfont Times-Roman 12
+partsfont Times-Bold 14
+tempofont Times-Bold 12
+headerfont Times-Roman 10
+footerfont Times-Roman 10
+infofont Times-Roman 12
+gchordfont Times-Roman 12
+annotationfont Times-Roman 12
+measurefont Times-Roman 8
+repeatfont Times-Bold 11
+vocalfont Times-Roman 11
+voicefont Times-Bold 12
+wordsfont Times-Roman 11
+textfont Times-Roman 12
+%
+pdfmark 1
+dateformat \%Y
+header ""
+footer "	Copyright \u00a9 $d $IC	"
+partsbox 1
+measurenb 0
+contbarnb 1
+%
+titlespace 0
+topspace 0
+titleformat T, Q- C1
+jazzchord 2 maj7=∆ m7b5=ø
+
