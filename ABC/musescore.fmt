@@ -38,7 +38,7 @@ textfont Times-Roman 12
 pdfmark 1
 dateformat \%Y
 header ""
-footer "	Copyright \u00a9 $d $IC	"
+footer "	Music copyright \u00a9 $d $IC	"
 partsbox 1
 measurenb 0
 contbarnb 1
