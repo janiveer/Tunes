@@ -10,7 +10,7 @@
     <encoding>
       <encoder>abc2xml version 238</encoder>
       <supports attribute="new-system" element="print" type="yes" value="yes" />
-      <encoding-date>2022-12-31</encoding-date>
+      <encoding-date>2023-12-24</encoding-date>
     </encoding>
     <miscellaneous>
       <miscellaneous-field name="fileurl">Villagers_All</miscellaneous-field>
@@ -51,6 +51,12 @@
           <beat-type>4</beat-type>
         </time>
       </attributes>
+      <harmony>
+        <root>
+          <root-step>D</root-step>
+        </root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch>
           <step>D</step>
@@ -121,6 +127,12 @@
       </note>
     </measure>
     <measure number="2">
+      <harmony>
+        <root>
+          <root-step>E</root-step>
+        </root>
+        <kind>minor</kind>
+      </harmony>
       <note>
         <pitch>
           <step>E</step>
@@ -148,6 +160,12 @@
           <text>y</text>
         </lyric>
       </note>
+      <harmony>
+        <root>
+          <root-step>A</root-step>
+        </root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch>
           <step>E</step>
@@ -204,6 +222,12 @@
         </direction-type>
         <sound segno="segno" />
       </direction>
+      <harmony>
+        <root>
+          <root-step>D</root-step>
+        </root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch>
           <step>F</step>
@@ -300,6 +324,12 @@
           <text>the</text>
         </lyric>
       </note>
+      <harmony>
+        <root>
+          <root-step>G</root-step>
+        </root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch>
           <step>G</step>
@@ -396,6 +426,17 @@
       </note>
     </measure>
     <measure number="4">
+      <harmony>
+        <root>
+          <root-step>A</root-step>
+        </root>
+        <kind>suspended-fourth</kind>
+        <degree>
+          <degree-value>7</degree-value>
+          <degree-alter>0</degree-alter>
+          <degree-type text="">add</degree-type>
+        </degree>
+      </harmony>
       <note>
         <pitch>
           <step>D</step>
@@ -425,6 +466,12 @@
           <text>cry</text>
         </lyric>
       </note>
+      <harmony>
+        <root>
+          <root-step>A</root-step>
+        </root>
+        <kind>dominant</kind>
+      </harmony>
       <note>
         <pitch>
           <step>C</step>
@@ -455,6 +502,12 @@
           <text>NO</text>
         </lyric>
       </note>
+      <harmony>
+        <root>
+          <root-step>D</root-step>
+        </root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch>
           <step>D</step>
@@ -486,7 +539,7 @@
       </note>
       <note>
         <pitch>
-          <step>A</step>
+          <step>B</step>
           <octave>5</octave>
         </pitch>
         <duration>120</duration>
@@ -504,6 +557,12 @@
     </measure>
     <measure number="5">
       <print new-system="yes" />
+      <harmony>
+        <root>
+          <root-step>B</root-step>
+        </root>
+        <kind>minor-seventh</kind>
+      </harmony>
       <note>
         <pitch>
           <step>A</step>
@@ -562,6 +621,16 @@
           <text>als</text>
         </lyric>
       </note>
+      <harmony>
+        <root>
+          <root-step>D</root-step>
+        </root>
+        <kind>major</kind>
+        <bass>
+          <bass-step>F</bass-step>
+          <bass-alter>1</bass-alter>
+        </bass>
+      </harmony>
       <note>
         <pitch>
           <step>F</step>
@@ -658,6 +727,12 @@
       </note>
     </measure>
     <measure number="6">
+      <harmony>
+        <root>
+          <root-step>G</root-step>
+        </root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch>
           <step>G</step>
@@ -717,6 +792,12 @@
           <text>be</text>
         </lyric>
       </note>
+      <harmony>
+        <root>
+          <root-step>A</root-step>
+        </root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch>
           <step>E</step>
@@ -791,6 +872,17 @@
     </measure>
     <measure number="7">
       <print new-system="yes" />
+      <harmony>
+        <root>
+          <root-step>F</root-step>
+          <root-alter>1</root-alter>
+        </root>
+        <kind>major</kind>
+        <bass>
+          <bass-step>A</bass-step>
+          <bass-alter>1</bass-alter>
+        </bass>
+      </harmony>
       <note>
         <pitch>
           <step>F</step>
@@ -850,6 +942,12 @@
           <text>the</text>
         </lyric>
       </note>
+      <harmony>
+        <root>
+          <root-step>B</root-step>
+        </root>
+        <kind>minor-seventh</kind>
+      </harmony>
       <note>
         <pitch>
           <step>D</step>
@@ -946,6 +1044,12 @@
       </note>
     </measure>
     <measure number="8">
+      <harmony>
+        <root>
+          <root-step>E</root-step>
+        </root>
+        <kind>minor-seventh</kind>
+      </harmony>
       <note>
         <pitch>
           <step>D</step>
@@ -1004,6 +1108,12 @@
           <text>did</text>
         </lyric>
       </note>
+      <harmony>
+        <root>
+          <root-step>A</root-step>
+        </root>
+        <kind>dominant</kind>
+      </harmony>
       <note>
         <pitch>
           <step>A</step>
@@ -1037,6 +1147,12 @@
     </measure>
     <measure number="9">
       <print new-system="yes" />
+      <harmony>
+        <root>
+          <root-step>D</root-step>
+        </root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch>
           <step>F</step>
@@ -1133,6 +1249,12 @@
           <text>be</text>
         </lyric>
       </note>
+      <harmony>
+        <root>
+          <root-step>G</root-step>
+        </root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch>
           <step>G</step>
@@ -1223,6 +1345,17 @@
       </note>
     </measure>
     <measure number="10">
+      <harmony>
+        <root>
+          <root-step>A</root-step>
+        </root>
+        <kind>suspended-fourth</kind>
+        <degree>
+          <degree-value>7</degree-value>
+          <degree-alter>0</degree-alter>
+          <degree-type text="">add</degree-type>
+        </degree>
+      </harmony>
       <note>
         <pitch>
           <step>D</step>
@@ -1255,6 +1388,12 @@
           <text>mor</text>
         </lyric>
       </note>
+      <harmony>
+        <root>
+          <root-step>A</root-step>
+        </root>
+        <kind>dominant</kind>
+      </harmony>
       <note>
         <pitch>
           <step>C</step>
@@ -1268,12 +1407,12 @@
           <slur number="1" type="stop" />
         </notations>
       </note>
-      <direction placement="above">
-        <direction-type>
-          <words>Fine</words>
-        </direction-type>
-        <sound fine="yes" />
-      </direction>
+      <harmony>
+        <root>
+          <root-step>D</root-step>
+        </root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch>
           <step>D</step>
@@ -1303,6 +1442,12 @@
           <text>ning!"</text>
         </lyric>
       </note>
+      <direction placement="above">
+        <direction-type>
+          <words>Fine</words>
+        </direction-type>
+        <sound fine="yes" />
+      </direction>
       <note>
         <pitch>
           <step>A</step>
@@ -1327,6 +1472,12 @@
           <words>Verse 2</words>
         </direction-type>
       </direction>
+      <harmony>
+        <root>
+          <root-step>D</root-step>
+        </root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch>
           <step>D</step>
@@ -1395,6 +1546,12 @@
       </note>
     </measure>
     <measure number="12">
+      <harmony>
+        <root>
+          <root-step>E</root-step>
+        </root>
+        <kind>minor</kind>
+      </harmony>
       <note>
         <pitch>
           <step>E</step>
@@ -1414,9 +1571,10 @@
           <alter>1</alter>
           <octave>5</octave>
         </pitch>
-        <duration>120</duration>
+        <duration>60</duration>
         <voice>1</voice>
-        <type>quarter</type>
+        <type>eighth</type>
+        <beam number="1">begin</beam>
         <lyric number="1">
           <syllabic>single</syllabic>
           <text>and</text>
@@ -1427,22 +1585,30 @@
           <step>D</step>
           <octave>5</octave>
         </pitch>
-        <duration>120</duration>
+        <duration>60</duration>
         <voice>1</voice>
-        <type>quarter</type>
+        <type>eighth</type>
+        <beam number="1">end</beam>
         <lyric number="1">
           <syllabic>single</syllabic>
           <text>the</text>
         </lyric>
       </note>
+      <harmony>
+        <root>
+          <root-step>A</root-step>
+        </root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch>
           <step>E</step>
           <octave>5</octave>
         </pitch>
-        <duration>240</duration>
+        <duration>360</duration>
         <voice>1</voice>
         <type>half</type>
+        <dot />
         <lyric number="1">
           <syllabic>single</syllabic>
           <text>sleet ...</text>
@@ -1462,6 +1628,12 @@
           <words>Verse 3-5</words>
         </direction-type>
       </direction>
+      <harmony>
+        <root>
+          <root-step>D</root-step>
+        </root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch>
           <step>D</step>
@@ -1570,6 +1742,12 @@
       </note>
     </measure>
     <measure number="14">
+      <harmony>
+        <root>
+          <root-step>E</root-step>
+        </root>
+        <kind>minor</kind>
+      </harmony>
       <note>
         <pitch>
           <step>E</step>
@@ -1613,6 +1791,12 @@
           <text>gels</text>
         </lyric>
       </note>
+      <harmony>
+        <root>
+          <root-step>A</root-step>
+        </root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch>
           <step>E</step>
