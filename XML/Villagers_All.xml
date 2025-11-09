@@ -10,7 +10,7 @@
     <encoding>
       <encoder>abc2xml version 238</encoder>
       <supports attribute="new-system" element="print" type="yes" value="yes" />
-      <encoding-date>2023-12-24</encoding-date>
+      <encoding-date>2025-11-09</encoding-date>
     </encoding>
     <miscellaneous>
       <miscellaneous-field name="fileurl">Villagers_All</miscellaneous-field>
@@ -430,12 +430,7 @@
         <root>
           <root-step>A</root-step>
         </root>
-        <kind>suspended-fourth</kind>
-        <degree>
-          <degree-value>7</degree-value>
-          <degree-alter>0</degree-alter>
-          <degree-type text="">add</degree-type>
-        </degree>
+        <kind>dominant</kind>
       </harmony>
       <note>
         <pitch>
@@ -1349,12 +1344,7 @@
         <root>
           <root-step>A</root-step>
         </root>
-        <kind>suspended-fourth</kind>
-        <degree>
-          <degree-value>7</degree-value>
-          <degree-alter>0</degree-alter>
-          <degree-type text="">add</degree-type>
-        </degree>
+        <kind>dominant</kind>
       </harmony>
       <note>
         <pitch>
